@@ -1,4 +1,4 @@
-```
+
 # Educational Technology Concurrency Control
 
 This project simulates a scenario in educational technology where students access assessment resources concurrently, and teachers grade assessments using concurrency control mechanisms such as mutex and semaphore.
@@ -76,5 +76,5 @@ Teacher completed grading assessment for student 9
 
 This output demonstrates students accessing assessment resources concurrently and teachers grading assessments in a controlled manner using mutex and semaphore.
 
-```
+
 
